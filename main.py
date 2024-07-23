@@ -26,13 +26,12 @@ with st.sidebar:
     - "How do I become an MLSA?"
     - "Where can I find Azure learning paths?"
     """)
-    
-    st.write("MLSAide provides information but can't perform actions like event registration.")
-    
+        
     st.subheader("Official Resources:")
     st.markdown("[MLSA Program Page](https://mvp.microsoft.com/studentambassadors)")
     st.markdown("[Microsoft Learn](https://docs.microsoft.com/learn)")
     st.markdown("[SA-Handbook](https://stdntpartners.sharepoint.com/sites/SAProgramHandbook)")
+    st.markdown("<p style='text-align: center;'>Made with ❤️ by Mohammed Raza © 2024</p>", unsafe_allow_html=True)
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -48,4 +47,4 @@ if prompt := st.chat_input("What is up?"):
     response = st.session_state.get_answer_from_kb(prompt)
     with st.chat_message("assistant"):
         st.markdown(response)
-    st.session_state.messages.append({"role": "assistant", "content": response})
+    st.session_state.messages.append({"role": "assistant", "content": response})    
