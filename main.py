@@ -32,6 +32,7 @@ with st.sidebar:
     st.markdown("[Microsoft Learn](https://docs.microsoft.com/learn)")
     st.markdown("[SA-Handbook](https://stdntpartners.sharepoint.com/sites/SAProgramHandbook)")
     st.markdown("<p style='text-align: center;'>Made with ❤️ by Mohammed Raza © 2024</p>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align: center;'>MLSAide can make mistakes. Do checkout SA-Handbook</p>", unsafe_allow_html=True)
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
