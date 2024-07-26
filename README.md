@@ -1,7 +1,7 @@
 # MLSAide Chatbot
 
-MLSAide is a Streamlit-based chatbot designed to assist Microsoft Learn Student Ambassadors (MLSA) with program-related questions.
-
+MLSAide is a Streamlit-based chatbot designed to assist Microsoft Learn Student Ambassadors (MLSA) with program-related questions. Try out the [MLSAide](https://mlsaide.streamlit.app/)
+chatbot to get answers to all your program-related questions as a Microsoft Learn Student Ambassador.
 ## Core Files and Their Functions
 
 ### main.py
@@ -56,4 +56,4 @@ Together, these files create a system that ingests knowledge from a PDF, stores 
 
 ## Creator and Developer
 
-MLSAide was created and developed by Mohammed Raza Syed, a Beta Microsoft Learn Student Ambassador who has been an active member of the MLSA community for over 1.5 years. This project was developed to assist fellow students and ambassadors with program-related queries as part of the Microsoft Learn Student Ambassadors program.
+MLSAide was created and developed by Mohammed Raza Syed, a Beta Microsoft Learn Student Ambassador who has been an active member of the MLSA INDIA community since 2023. This project was developed to assist fellow students and ambassadors with program-related queries as part of the Microsoft Learn Student Ambassadors program.
