@@ -2,7 +2,7 @@
 
 MLSAide is a Streamlit-based chatbot designed to assist Microsoft Learn Student Ambassadors (MLSA) with program-related questions. Try out the [MLSAide](https://mlsaide.streamlit.app/)
 chatbot to get answers to all your program-related questions as a Microsoft Learn Student Ambassador.
-## Core Files and Their Functions
+## Core Files and Their Function
 
 ### main.py
 
