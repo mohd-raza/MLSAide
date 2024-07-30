@@ -4,7 +4,7 @@ MLSAide is a Streamlit-based chatbot designed to assist Microsoft Learn Student 
 chatbot to get answers to all your program-related questions as a Microsoft Learn Student Ambassador.
 ## Core Files and Their Function
 
-### main.py
+### main.p
 
 This file contains the Streamlit web application for the MLSAide chatbot. It sets up the user interface and manages the chat interaction. Key features include:
 
